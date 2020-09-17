@@ -1,0 +1,7 @@
+C:\Users\Smitsonit\Desktop\client\bin\Debug\client.exe.config
+C:\Users\Smitsonit\Desktop\client\bin\Debug\client.exe
+C:\Users\Smitsonit\Desktop\client\bin\Debug\client.pdb
+C:\Users\Smitsonit\Desktop\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\Smitsonit\Desktop\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Smitsonit\Desktop\client\obj\Debug\client.exe
+C:\Users\Smitsonit\Desktop\client\obj\Debug\client.pdb

@@ -1,0 +1,7 @@
+C:\Users\Smitsonit\Desktop\serial\bin\Debug\serial.exe.config
+C:\Users\Smitsonit\Desktop\serial\bin\Debug\serial.exe
+C:\Users\Smitsonit\Desktop\serial\bin\Debug\serial.pdb
+C:\Users\Smitsonit\Desktop\serial\obj\Debug\serial.csprojAssemblyReference.cache
+C:\Users\Smitsonit\Desktop\serial\obj\Debug\serial.csproj.CoreCompileInputs.cache
+C:\Users\Smitsonit\Desktop\serial\obj\Debug\serial.exe
+C:\Users\Smitsonit\Desktop\serial\obj\Debug\serial.pdb
